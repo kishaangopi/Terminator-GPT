@@ -34,3 +34,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+serviceAccountKey.json
+firebase.ts
+firebaseAdmin.ts
+chatgpt.ts
